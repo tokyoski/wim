@@ -2,7 +2,6 @@ import getpass
 import re
 import subprocess
 
-list = None
 wlan = None
 iwdev = subprocess.check_output("iw dev | grep 'Interface' | cut -d ' ' -f2", shell=True, encoding="UTF-8")
 wlan_list = str(iwdev)
