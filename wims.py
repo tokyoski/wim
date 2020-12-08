@@ -29,7 +29,7 @@ def managed():
 	return
 
 def commands():
-	print("1. Turn on monitor mode\n2. Turn on managed mode\n3. Exit the script\n\nYour input:", end=" ")
+	print("\n\n1. Turn on monitor mode\n2. Turn on managed mode\n3. Exit the script\n\nYour input:", end=" ")
 	command = input()
 	while True:
 		if command == "1":
