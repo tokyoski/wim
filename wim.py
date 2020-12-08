@@ -1,7 +1,6 @@
 import getpass
 import re
 import subprocess
-import sys
 
 list = None
 wlan = None
