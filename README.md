@@ -1,2 +1,2 @@
 # wim
-Wireless Interface Manager -- Switch between Monitor and Managed
+Wireless Interface Manager -- Switch between Monitor and Managed modes
