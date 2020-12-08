@@ -54,7 +54,7 @@ def main():
 		choose_wlan()
 		commands()
 	else:
-		print("Please run the script as root ('sudo python wim.py' or 'sudo python3 wim.py').")
+		print("Please run the script as root ('sudo python wims.py' or 'sudo python3 wims.py').")
 		exit()
 
 main()
